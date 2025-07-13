@@ -25,6 +25,6 @@ Ben bir **Full Stack Developer adayıyım** ve aktif olarak **ASP.NET Core, C#, 
 ---
 
 ## 📬 Bana ulaşın:
-- 💼 [LinkedIn](https://www.linkedin.com/in/mhmtfthunal/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-fatih-ünal/)
 - 📧 mehmet.fth37@gmail.com
 - 💻 [GitHub](https://github.com/mhmtfthunal)
