@@ -1,30 +1,44 @@
-
 # 👋 Merhaba, ben Mehmet Fatih Ünal!
 
-Ben bir **Full Stack Developer adayıyım** ve aktif olarak **ASP.NET Core, C#, Entity Framework**, ve **SQL** üzerine yoğunlaşıyorum. Aynı zamanda front-end tarafında **HTML, CSS, JavaScript ve Bootstrap** teknolojilerini kullanarak kullanıcı dostu arayüzler geliştiriyorum.
+Ben, **backend ve frontend geliştirme alanlarında kendini geliştiren bir Full-Stack Developer’ım.** Özellikle **.NET ekosistemi, REST API geliştirme ve sistem entegrasyonları** üzerine yoğunlaşıyorum. Frontend tarafında ise **React, JavaScript, HTML ve CSS** kullanarak kullanıcı deneyimi odaklı, responsive arayüzler geliştiriyorum.
 
-💼 Gündelik hayatımda e-ticaret yazılım firmasında **Yazılım Destek Uzmanı** olarak çalışıyor, müşteri taleplerine hızlı ve etkili çözümler üretiyorum. Teknik destek verirken yazılım geliştirme kabiliyetlerimi de geliştiriyor, öğrendiklerimi gerçek projelerde uyguluyorum.
+💼 Profesyonel olarak bir e‑ticaret yazılım firmasında **Yazılım Destek Uzmanı** olarak çalışıyorum. Bu rolde; ERP sistemleri, pazaryerleri ve ödeme altyapıları ile e‑ticaret platformları arasında **API tabanlı entegrasyonlar**, veri dönüşümleri (XML/XSLT) ve sistemler arası veri senkronizasyonu süreçlerinde aktif görev alıyorum. Gerçek sistem problemleriyle çalışmak, yazılım geliştirme bakış açımı güçlendiriyor.
 
-🎯 Hedefim; yazılım dünyasında derinleşerek kaliteli projelere imza atmak, çözüm odaklı uygulamalar geliştirmek ve teknolojiyi daha iyi bir dünya için kullanmak.
+🎯 Hedefim; entegrasyon ve backend ağırlıklı projelerde yer alarak ölçeklenebilir sistemler geliştirmek ve full‑stack bilgi birikimimi gerçek dünya problemlerine çözüm üretmek için kullanmak.
 
 ---
 
 ## 🚀 Kullandığım Teknolojiler
-- **Backend:** C#, ASP.NET Core MVC, Entity Framework
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Veritabanı:** SQL Server, PostgreSQL
-- **Araçlar:** Visual Studio, Visual Studio Code, Git & GitHub
+
+**Backend & API**
+C#, ASP.NET Core, REST API, Entity Framework
+
+**Frontend**
+React, JavaScript (ES6+), HTML5, CSS3, Responsive Design
+
+**Veritabanı**
+SQL Server, PostgreSQL
+
+**Entegrasyon & Araçlar**
+Postman, XML/XSLT, Git, GitHub, Visual Studio, VS Code
 
 ---
 
-## 📈 Şu anda üzerinde çalıştıklarım:
-- 📚 Kütüphane Yönetim Sistemi (ASP.NET Core MVC)
-- 🧠 Yapay zekâ destekli Telegram botları (Python + n8n)
-- 🔗 XML/XSLT dönüşüm ve API entegrasyon projeleri
+## 📌 Öne Çıkan Çalışmalarım
+
+📚 **Kütüphane Yönetim Sistemi (ASP.NET Core MVC)**
+CRUD işlemleri, katmanlı mimari ve veritabanı entegrasyonu içeren backend odaklı proje.
+
+📖 **LibraryApp – React Frontend**
+Kütüphane yönetim sistemi için geliştirilmiş, component tabanlı ve responsive arayüz uygulaması.
+
+🔗 **API & Entegrasyon Çalışmaları**
+E‑ticaret sistemleri, ERP ve pazaryerleri arasında veri akışı sağlayan entegrasyon senaryoları ve dönüşüm projeleri.
 
 ---
 
-## 📬 Bana ulaşın:
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-fatih-ünal/)
-- 📧 mehmet.fth37@gmail.com
-- 💻 [GitHub](https://github.com/mhmtfthunal)
+## 📬 Bana Ulaşın
+
+💼 LinkedIn: [https://www.linkedin.com/in/mehmet-fatih-ünal/](https://www.linkedin.com/in/mehmet-fatih-ünal/)
+📧 E‑posta: [mehmet.fth37@gmail.com](mailto:mehmet.fth37@gmail.com)
+💻 GitHub: [https://github.com/mhmtfthunal](https://github.com/mhmtfthunal)
