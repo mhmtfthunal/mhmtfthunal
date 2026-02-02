@@ -40,5 +40,7 @@ E‑ticaret sistemleri, ERP ve pazaryerleri arasında veri akışı sağlayan en
 ## 📬 Bana Ulaşın
 
 💼 LinkedIn: [https://www.linkedin.com/in/mehmet-fatih-ünal/](https://www.linkedin.com/in/mehmet-fatih-ünal/)
+
 📧 E‑posta: [mehmet.fth37@gmail.com](mailto:mehmet.fth37@gmail.com)
+
 💻 GitHub: [https://github.com/mhmtfthunal](https://github.com/mhmtfthunal)
